@@ -1,0 +1,11 @@
+node_modules/
+/wp-app/
+/wp-admin/
+/wp-includes/
+/wp-content/
+
+wp-config.php
+license.txt
+reademe.html
+
+/.env
